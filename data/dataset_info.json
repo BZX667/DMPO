@@ -1,0 +1,487 @@
+{
+    "rec_data_ml_1m_sft_ranking": {
+    "file_name": "rec_data_ml_1m_sft_ranking.json",
+    "file_sha1": "a647303d5e2e91799d5897932d423bba30b6ca12"
+  },
+    "rec_data_ml_1m_dpo_ranking_1": {
+    "file_name": "rec_data_ml_1m_dpo_ranking_1.json",
+    "file_sha1": "cd8515f17868365bedeb5ee62356bb515afa126b"
+  },
+    "rec_data_ml_1m_dpo_ranking_2": {
+    "file_name": "rec_data_ml_1m_dpo_ranking_2.json",
+    "file_sha1": "8729bbde70aed4b7e09b95eea641fb59fe9eff52 "
+  },
+    "rec_data_ml_1m_dpo_ranking_3": {
+    "file_name": "rec_data_ml_1m_dpo_ranking_3.json",
+    "file_sha1": "71a6f18f0ede97783d2ff920cc6016fa0b64e7a2"
+  },
+    "rec_data_ml_1m_dpo_ranking_4": {
+    "file_name": "rec_data_ml_1m_dpo_ranking_4.json",
+    "file_sha1": "e767fff2b7b9a21b322776bd1df4b9d0c9d30c22"
+  },
+    "rec_data_ml_1m_dpo_ranking_5": {
+    "file_name": "rec_data_ml_1m_dpo_ranking_5.json",
+    "file_sha1": "e14e59d3d83701246a3bba2b3214afb8475b8df1"
+  },
+    "rec_data_ml_1m_eval_ranking": {
+    "file_name": "rec_data_ml_1m_eval_ranking.json",
+    "file_sha1": "62d27c0744d55c7e90f0ffa96252c60491a2afed"
+  },
+    "rec_data_ml_1m_sft_yesno": {
+    "file_name": "rec_data_ml_1m_sft_yesno.json",
+    "file_sha1": "52a30ca06b621f1de1f9baf3d342fc000b9856f4"
+  },
+    "rec_data_ml_1m_dpo_yesno_1": {
+    "file_name": "rec_data_ml_1m_dpo_yesno_1.json",
+    "file_sha1": "f6ac46aaffae3704320e3f3955b18f48e1d50a9a"
+  },
+    "rec_data_ml_1m_dpo_yesno_2": {
+    "file_name": "rec_data_ml_1m_dpo_yesno_2.json",
+    "file_sha1": "4fdc3490ab4c74234c950a280d324b7f5f7c03eb"
+  },
+    "rec_data_ml_1m_dpo_yesno_3": {
+    "file_name": "rec_data_ml_1m_dpo_yesno_3.json",
+    "file_sha1": "70a7e6e933215324a527ab93f860a8ba9eb02c5f"
+  },
+    "rec_data_ml_1m_dpo_yesno_4": {
+    "file_name": "rec_data_ml_1m_dpo_yesno_4.json",
+    "file_sha1": "ac46e7b8d327940d42d34226004b0baabdf1bff3"
+  },
+    "rec_data_ml_1m_dpo_yesno_5": {
+    "file_name": "rec_data_ml_1m_dpo_yesno_5.json",
+    "file_sha1": "f0edee38a67de1e7e59d15e8da3798e3af920c50"
+  },
+    "rec_data_ml_1m_eval_yesno": {
+    "file_name": "rec_data_ml_1m_eval_yesno.json",
+    "file_sha1": "d14235df997bf5255b857dd15dcf3a249c0200c3"
+  },
+    "rec_Amazon_Movie_sft_ranking": {
+    "file_name": "rec_Amazon_Movie_sft_ranking.json",
+    "file_sha1": "29c43899dcc14c76e8ec2de7f95e8eb2b56f1f00"
+  },
+    "rec_Amazon_Movie_dpo_ranking_1": {
+    "file_name": "rec_Amazon_Movie_dpo_ranking_1.json",
+    "file_sha1": "feff47806cb68b10ed97da01d4e50d9eb477880d"
+  },
+    "rec_Amazon_Movie_dpo_ranking_2": {
+    "file_name": "rec_Amazon_Movie_dpo_ranking_2.json",
+    "file_sha1": "fa1054bf5ed789eec2203750614f946f7ebadf07"
+  },
+    "rec_Amazon_Movie_dpo_ranking_3": {
+    "file_name": "rec_Amazon_Movie_dpo_ranking_3.json",
+    "file_sha1": "dab6d4f1fefe1687d012eb9d85e8b998c2152cdb"
+  },
+    "rec_Amazon_Movie_dpo_ranking_4": {
+    "file_name": "rec_Amazon_Movie_dpo_ranking_4.json",
+    "file_sha1": "7a72180112852af16c266b24bd15344432bf025f"
+  },
+    "rec_Amazon_Movie_dpo_ranking_5": {
+    "file_name": "rec_Amazon_Movie_dpo_ranking_5.json",
+    "file_sha1": "8d69deae753e916c240dbea27d57ec91e0baf8b7"
+  },
+    "rec_Amazon_Movie_eval_ranking": {
+    "file_name": "rec_Amazon_Movie_eval_ranking.json",
+    "file_sha1": "6c7ae2b2d078935e85da77924921116b180f3efe"
+  },
+    "rec_Amazon_Movie_sft_yesno": {
+    "file_name": "rec_Amazon_Movie_sft_yesno.json",
+    "file_sha1": "78229e886bbcfc9a0f07c9d80107ca55b497cd47"
+  },
+    "rec_Amazon_Movie_dpo_yesno_1": {
+    "file_name": "rec_Amazon_Movie_dpo_yesno_1.json",
+    "file_sha1": "2b934f9d0a21cbb957487607a6cc87e965f481ad"
+  },
+    "rec_Amazon_Movie_dpo_yesno_2": {
+    "file_name": "rec_Amazon_Movie_dpo_yesno_2.json",
+    "file_sha1": "21db5da815ba82a337cfe5e72fd3fd53f6f0b816"
+  },
+    "rec_Amazon_Movie_dpo_yesno_3": {
+    "file_name": "rec_Amazon_Movie_dpo_yesno_3.json",
+    "file_sha1": "0bc33adec37061703764a742559f6c24fe3e7d68"
+  },
+    "rec_Amazon_Movie_dpo_yesno_4": {
+    "file_name": "rec_Amazon_Movie_dpo_yesno_4.json",
+    "file_sha1": "620893a1938fbb0bbc3becb4a0f71dd64214efda"
+  },
+    "rec_Amazon_Movie_dpo_yesno_5": {
+    "file_name": "rec_Amazon_Movie_dpo_yesno_5.json",
+    "file_sha1": "9bcf3d4c79b9afbae4c8433a4b74e846689e1408"
+  },
+    "rec_Amazon_Movie_eval_yesno": {
+    "file_name": "rec_Amazon_Movie_eval_yesno.json",
+    "file_sha1": "6c7ae2b2d078935e85da77924921116b180f3efe"
+  },
+    "rec_Amazon_Game_sft_ranking": {
+    "file_name": "rec_Amazon_Game_sft_ranking.json",
+    "file_sha1": "2f48fd0c8785293e712a8579a52e6353605ed4cf"
+  },
+    "rec_Amazon_Game_dpo_ranking_1": {
+    "file_name": "rec_Amazon_Game_dpo_ranking_1.json",
+    "file_sha1": "93314d23d2b2ac068944bcd735574b29be15d1c3"
+  },
+    "rec_Amazon_Game_dpo_ranking_2": {
+    "file_name": "rec_Amazon_Game_dpo_ranking_2.json",
+    "file_sha1": "3d6e3a0e54fe4b2d9cdf0a59afc89571f1846e13"
+  },
+    "rec_Amazon_Game_dpo_ranking_3": {
+    "file_name": "rec_Amazon_Game_dpo_ranking_3.json",
+    "file_sha1": "1cf25a3566b127675787f4a2086d039976c3f2f9"
+  },
+    "rec_Amazon_Game_dpo_ranking_4": {
+    "file_name": "rec_Amazon_Game_dpo_ranking_4.json",
+    "file_sha1": "40158ab3e76455424f9889df88f708a551ef2723"
+  },
+    "rec_Amazon_Game_dpo_ranking_5": {
+    "file_name": "rec_Amazon_Game_dpo_ranking_5.json",
+    "file_sha1": "b703efcb262c1ef52890ef9763aceec5e788ca23"
+  },
+    "rec_Amazon_Game_eval_ranking": {
+    "file_name": "rec_Amazon_Game_eval_ranking.json",
+    "file_sha1": "6c2995d99620429490bb3361a537e25cbe7ec4ca"
+  },
+    "rec_Amazon_Game_sft_yesno": {
+    "file_name": "rec_Amazon_Game_sft_yesno.json",
+    "file_sha1": "2c53f55b27d77a0f9de6cc7a901eb8f19e1bdb7a"
+  },
+    "rec_Amazon_Game_dpo_yesno_1": {
+    "file_name": "rec_Amazon_Game_dpo_yesno_1.json",
+    "file_sha1": "cb6601e93312f544e34347314256d48192e25f97"
+  },
+    "rec_Amazon_Game_dpo_yesno_2": {
+    "file_name": "rec_Amazon_Game_dpo_yesno_2.json",
+    "file_sha1": "01974c3367fe8e051a06b280c0c92b573aa936ba"
+  },
+    "rec_Amazon_Game_dpo_yesno_3": {
+    "file_name": "rec_Amazon_Game_dpo_yesno_3.json",
+    "file_sha1": "5f21f637623894c53466b1434a418f93219850f2"
+  },
+    "rec_Amazon_Game_dpo_yesno_4": {
+    "file_name": "rec_Amazon_Game_dpo_yesno_4.json",
+    "file_sha1": "b96de001942f9ee45f631cd4356ee2aa02a87917"
+  },
+    "rec_Amazon_Game_dpo_yesno_5": {
+    "file_name": "rec_Amazon_Game_dpo_yesno_5.json",
+    "file_sha1": "a3ca2a063f040a4c29bed36bbe2dea08a56d00ba"
+  },
+    "rec_Amazon_Game_eval_yesno": {
+    "file_name": "rec_Amazon_Game_eval_yesno.json",
+    "file_sha1": "a9233b4c0fefdc7575f18f66d745e71ebaa028ab"
+  },
+    "rec_Amazon_Game_Movie_sft_ranking": {
+    "file_name": "rec_Amazon_Game_Movie_sft_ranking.json",
+    "file_sha1": "b747ee5ab877dbcfceb97bad7af09db9b7519d2c"
+  },
+    "rec_Amazon_Game_Movie_dpo_ranking": {
+    "file_name": "rec_Amazon_Game_Movie_dpo_ranking.json",
+    "file_sha1": "2cf1a679eba4d0df3a039e10722cb59cd10a8c88"
+  },
+    "rec_Amazon_Game_Movie_sft_yesno": {
+    "file_name": "rec_Amazon_Game_Movie_sft_yesno.json",
+    "file_sha1": "6edb809afa032cddf4cea1000c0eb80594beae07"
+  },
+    "rec_Amazon_Game_Movie_dpo_yesno": {
+    "file_name": "rec_Amazon_Game_Movie_dpo_yesno.json",
+    "file_sha1": "ff5837d5de973e8b49422e209156d6ab8e60f820"
+  },
+  "alpaca_en": {
+    "file_name": "alpaca_data_en_52k.json",
+    "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
+  },
+  "alpaca_zh": {
+    "file_name": "alpaca_data_zh_51k.json",
+    "file_sha1": "e655af3db557a4197f7b0cf92e1986b08fae6311"
+  },
+  "alpaca_gpt4_en": {
+    "file_name": "alpaca_gpt4_data_en.json",
+    "file_sha1": "647f4ad447bd993e4b6b6223d1be15208bab694a"
+  },
+  "alpaca_gpt4_zh": {
+    "file_name": "alpaca_gpt4_data_zh.json",
+    "file_sha1": "3eaa3bda364ccdd59925d7448a698256c31ef845"
+  },
+  "self_cognition": {
+    "file_name": "self_cognition.json",
+    "file_sha1": "6287a730ada924fc5d9eadc6d8f865e01b7a6f67"
+  },
+  "oaast_sft": {
+    "file_name": "oaast_sft.json",
+    "file_sha1": "7baf5d43e67a91f9bbdf4e400dbe033b87e9757e",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_sft_zh": {
+    "file_name": "oaast_sft_zh.json",
+    "file_sha1": "a6a91f18f80f37b10ded9cf633fb50c033bf7b9f",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "lima": {
+    "file_name": "lima.json",
+    "file_sha1": "9db59f6b7007dc4b17529fc63379b9cd61640f37",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "example": {
+    "script_url": "example_dataset",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "guanaco": {
+    "hf_hub_url": "JosephusCheung/GuanacoDataset",
+    "ms_hub_url": "AI-ModelScope/GuanacoDataset"
+  },
+  "belle_2m": {
+    "hf_hub_url": "BelleGroup/train_2M_CN",
+    "ms_hub_url": "AI-ModelScope/train_2M_CN"
+  },
+  "belle_1m": {
+    "hf_hub_url": "BelleGroup/train_1M_CN",
+    "ms_hub_url": "AI-ModelScope/train_1M_CN"
+  },
+  "belle_0.5m": {
+    "hf_hub_url": "BelleGroup/train_0.5M_CN",
+    "ms_hub_url": "AI-ModelScope/train_0.5M_CN"
+  },
+  "belle_dialog": {
+    "hf_hub_url": "BelleGroup/generated_chat_0.4M",
+    "ms_hub_url": "AI-ModelScope/generated_chat_0.4M"
+  },
+  "belle_math": {
+    "hf_hub_url": "BelleGroup/school_math_0.25M",
+    "ms_hub_url": "AI-ModelScope/school_math_0.25M"
+  },
+  "belle_multiturn": {
+    "script_url": "belle_multiturn",
+    "formatting": "sharegpt"
+  },
+  "ultra_chat": {
+    "script_url": "ultra_chat",
+    "formatting": "sharegpt"
+  },
+  "open_platypus": {
+    "hf_hub_url": "garage-bAInd/Open-Platypus",
+    "ms_hub_url": "AI-ModelScope/Open-Platypus"
+  },
+  "codealpaca": {
+    "hf_hub_url": "sahil2801/CodeAlpaca-20k",
+    "ms_hub_url": "AI-ModelScope/CodeAlpaca-20k"
+  },
+  "alpaca_cot": {
+    "hf_hub_url": "QingyiSi/Alpaca-CoT",
+    "ms_hub_url": "AI-ModelScope/Alpaca-CoT"
+  },
+  "openorca": {
+    "hf_hub_url": "Open-Orca/OpenOrca",
+    "ms_hub_url": "AI-ModelScope/OpenOrca",
+    "columns": {
+      "prompt": "question",
+      "response": "response",
+      "system": "system_prompt"
+    }
+  },
+  "mathinstruct": {
+    "hf_hub_url": "TIGER-Lab/MathInstruct",
+    "ms_hub_url": "AI-ModelScope/MathInstruct",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "firefly": {
+    "hf_hub_url": "YeungNLP/firefly-train-1.1M",
+    "columns": {
+      "prompt": "input",
+      "response": "target"
+    }
+  },
+  "webqa": {
+    "hf_hub_url": "suolyer/webqa",
+    "ms_hub_url": "AI-ModelScope/webqa",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "webnovel": {
+    "hf_hub_url": "zxbsmk/webnovel_cn",
+    "ms_hub_url": "AI-ModelScope/webnovel_cn"
+  },
+  "nectar_sft": {
+    "hf_hub_url": "mlinmg/SFT-Nectar"
+  },
+  "adgen": {
+    "hf_hub_url": "HasturOfficial/adgen",
+    "ms_hub_url": "AI-ModelScope/adgen",
+    "columns": {
+      "prompt": "content",
+      "response": "summary"
+    }
+  },
+  "sharegpt_hyper": {
+    "hf_hub_url": "totally-not-an-llm/sharegpt-hyperfiltered-3k",
+    "formatting": "sharegpt"
+  },
+  "sharegpt4": {
+    "hf_hub_url": "shibing624/sharegpt_gpt4",
+    "ms_hub_url": "AI-ModelScope/sharegpt_gpt4",
+    "formatting": "sharegpt"
+  },
+  "ultrachat_200k": {
+    "hf_hub_url": "HuggingFaceH4/ultrachat_200k",
+    "ms_hub_url": "AI-ModelScope/ultrachat_200k",
+    "columns": {
+      "messages": "messages",
+      "role": "role",
+      "content": "content"
+    },
+    "formatting": "sharegpt"
+  },
+  "agent_instruct": {
+    "hf_hub_url": "THUDM/AgentInstruct",
+    "ms_hub_url": "ZhipuAI/AgentInstruct",
+    "formatting": "sharegpt"
+  },
+  "lmsys_chat": {
+    "hf_hub_url": "lmsys/lmsys-chat-1m",
+    "ms_hub_url": "AI-ModelScope/lmsys-chat-1m",
+    "columns": {
+      "messages": "conversation",
+      "role": "role",
+      "content": "content"
+    },
+    "formatting": "sharegpt"
+  },
+  "evol_instruct": {
+    "hf_hub_url": "WizardLM/WizardLM_evol_instruct_V2_196k",
+    "formatting": "sharegpt"
+  },
+  "hh_rlhf_en": {
+    "script_url": "hh_rlhf_en",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "oaast_rm": {
+    "file_name": "oaast_rm.json",
+    "file_sha1": "622d420e9b70003b210618253bd3d9d2891d86cb",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "oaast_rm_zh": {
+    "file_name": "oaast_rm_zh.json",
+    "file_sha1": "1065af1f3784dd61be5e79713a35f427b713a232",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "comparison_gpt4_en": {
+    "file_name": "comparison_gpt4_data_en.json",
+    "file_sha1": "96fa18313544e22444fe20eead7754b17da452ae",
+    "ranking": true
+  },
+  "comparison_gpt4_zh": {
+    "file_name": "comparison_gpt4_data_zh.json",
+    "file_sha1": "515b18ed497199131ddcc1af950345c11dc5c7fd",
+    "ranking": true
+  },
+  "nectar_rm": {
+    "hf_hub_url": "mlinmg/RLAIF-Nectar",
+    "ranking": true
+  },
+  "wiki_demo": {
+    "file_name": "wiki_demo.txt",
+    "file_sha1": "e70375e28eda542a90c68213640cc371898ce181",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "c4_demo": {
+    "file_name": "c4_demo.json",
+    "file_sha1": "a5a0c86759732f9a5238e447fecd74f28a66cca8",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "refinedweb": {
+    "hf_hub_url": "tiiuae/falcon-refinedweb",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "redpajama_v2": {
+    "hf_hub_url": "togethercomputer/RedPajama-Data-V2",
+    "columns": {
+      "prompt": "raw_content"
+    },
+    "subset": "default"
+  },
+  "wikipedia_en": {
+    "hf_hub_url": "olm/olm-wikipedia-20221220",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "wikipedia_zh": {
+    "hf_hub_url": "pleisto/wikipedia-cn-20230720-filtered",
+    "ms_hub_url": "AI-ModelScope/wikipedia-cn-20230720-filtered",
+    "columns": {
+      "prompt": "completion"
+    }
+  },
+  "pile": {
+    "hf_hub_url": "EleutherAI/pile",
+    "columns": {
+      "prompt": "text"
+    },
+    "subset": "all"
+  },
+  "skypile": {
+    "hf_hub_url": "Skywork/SkyPile-150B",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "the_stack": {
+    "hf_hub_url": "bigcode/the-stack",
+    "ms_hub_url": "AI-ModelScope/the-stack",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "starcoder_python": {
+    "hf_hub_url": "bigcode/starcoderdata",
+    "ms_hub_url": "AI-ModelScope/starcoderdata",
+    "columns": {
+      "prompt": "content"
+    },
+    "folder": "python"
+  }
+}
