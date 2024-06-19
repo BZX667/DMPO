@@ -11,6 +11,3 @@ pip install -r requirements.txt
 
 ## Run
 bash run.sh
-
-# DMPO
-# DMPO
